@@ -6,8 +6,6 @@ I am an Azure Cloud & Security Engineer with a background in Cyber Defence and V
 My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID, Azure DevOps, Infrastructure as Code (IaC), KQL, Bash, and PowerShell. I enjoy building secure cloud solutions, automating infrastructure deployments, improving security visibility, and strengthening cloud governance. Currently, I am working towards achieving the Microsoft SC-500 certification to further expand my cloud security expertise.
 </p>
 
----
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4)
@@ -23,8 +21,6 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 
----
-
 ## 🎓 Certifications
 
 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
@@ -32,8 +28,6 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 
 📚 **Currently studying for: SC-500**
-
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 
