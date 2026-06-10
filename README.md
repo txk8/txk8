@@ -1,5 +1,3 @@
-[![cover](https://github.com/txk8/txk8/blob/main/cover.png)](https://github.com/txk8?tab=repositories)
-
 <h3 align="center">Azure Cloud & Security Engineer</h3>
 
 <p align="left">
