@@ -1,5 +1,3 @@
-<h3 align="center">Azure Cloud & Security Engineer</h3>
-
 <p align="left">
 I am an Azure Cloud & Security Engineer with a background in Cyber Defence and Vulnerability Management, now focused on designing, securing, and automating cloud environments within Microsoft Azure. My experience includes working in UK public sector security-cleared environments, where security, compliance, and operational resilience are critical.
 
