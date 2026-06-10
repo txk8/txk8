@@ -37,7 +37,7 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 
 ---
 
-<h2 align="left">📊 GitHub Stats 📊</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=txk8&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=txk8&show_icons=true&theme=tokyonight)
