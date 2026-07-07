@@ -25,8 +25,5 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 
 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 
-📚 **Currently studying for: SC-500**
+📚 **Currently studying for: AZ-104, then SC-500**
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=txk8&show_icons=true&theme=tokyonight)
