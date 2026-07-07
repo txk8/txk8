@@ -1,7 +1,7 @@
 <p align="left">
-I am an Azure Cloud & Security Engineer with a background in Cyber Defence and Vulnerability Management, now focused on designing, securing, and automating cloud environments within Microsoft Azure. My experience includes working in UK public sector security-cleared environments, where security, compliance, and operational resilience are critical.
+I am an Azure Cloud & Security Engineer with a background in Cyber Defence and Vulnerability Management, now focused on designing, securing, and automating cloud environments within Microsoft Azure.
 
-My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID, Azure DevOps, Infrastructure as Code (IaC), KQL, Bash, and PowerShell. I enjoy building secure cloud solutions, automating infrastructure deployments, improving security visibility, and strengthening cloud governance. Currently, I am working towards achieving the Microsoft SC-500 certification to further expand my cloud security expertise.
+My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID, Azure DevOps, Infrastructure as Code (IaC), KQL, Bash, and PowerShell. I enjoy building secure cloud solutions, automating infrastructure deployments, improving security visibility, and strengthening cloud governance. Currently, I am working towards achieving the Microsoft SC-500 & AZ-104 certifications to further expand my cloud infrastructure & security expertise.
 </p>
 
 ## 🔧 Technologies & Tools
@@ -29,5 +29,4 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=txk8&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=txk8&show_icons=true&theme=tokyonight)
