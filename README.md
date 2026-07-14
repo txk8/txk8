@@ -3,7 +3,7 @@ I am an Azure Cloud & Security Engineer with a background in Cyber Defence and V
 
 My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID, Azure DevOps, Infrastructure as Code (IaC), KQL, Bash, and PowerShell. I enjoy building secure cloud solutions, automating infrastructure deployments, improving security visibility, and strengthening cloud governance. Currently, I am working towards achieving the Microsoft SC-500 & AZ-104 certifications to further expand my cloud infrastructure & security expertise.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katefowler1//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katefowler1/)
 </p>
 
 ## 🔧 Technologies & Tools
