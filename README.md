@@ -19,7 +19,9 @@ My technical focus spans Azure, Microsoft Sentinel, Defender for Cloud, Entra ID
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 
-## 🎓 Certifications
+## 🎓 Certifications & Education
+
+🎓 **BSc (Hons) Computer Science - [Robert Gordon University**
 
 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
